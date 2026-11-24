@@ -6,6 +6,6 @@ QMRui es un paquete de Python que necesita la aplicación del lenguaje QMN para 
 
 - Tener instalada la aplicación del lenguaje QMN.
 
-## Repositorio de QMN
+### Repositorio de QMN
 
 Enlace:
